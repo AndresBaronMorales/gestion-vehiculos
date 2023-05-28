@@ -1,0 +1,288 @@
+[
+  {
+    "Nombre": "Automóvil",
+    "Vehiculos": [
+      {
+        "NombreMarca": "Lamborghini",
+        "Modelos": [
+          "Revuelto",
+          "Huracan",
+          "Urus",
+          "Limited Series",
+          "Estoque"
+        ]
+      },
+	{
+        "NombreMarca": "BMW",
+        "Modelos": [
+          "Serie 7",
+          "BMW X1",
+          "Active Tourer",
+          "X7",
+          "Gran Tourer"
+        ]
+      },
+	{
+        "NombreMarca": "Mercedes-Benz",
+        "Modelos": [
+          "AMG GT",
+          "SL",
+          "SLC",
+          "GLS",
+          "GLE"
+        ]
+      },
+	{
+        "NombreMarca": "Bugatti",
+        "Modelos": [
+          "Chiron Super Sport 2016",
+          "Centodieci 2021",
+          "Chiron 2016",
+          "Divo",
+          "La Voiture Noire"
+        ]
+      },
+	{
+        "NombreMarca": "Ferrari",
+        "Modelos": [
+          "296 GTB",
+          "488",
+          "812 Superfast",
+          "Roma",
+          "SF90 Stradale"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Bicicleta",
+    "Vehiculos": [
+      {
+        "NombreMarca": "Scott",
+        "Modelos": [
+          "Spark RC",
+          "Ransom",
+          "Gambler",
+          "Aspect",
+          "Contessa"
+        ]
+      },
+	{
+        "NombreMarca": "Trek",
+        "Modelos": [
+          "Marlin",
+          "X-Caliber",
+          "Procaliber",
+          "Roscoe",
+          "Top Fuel"
+        ]
+      },
+	{
+        "NombreMarca": "Specialized",
+        "Modelos": [
+          "Epic World Cup",
+          "Sirrus X 3.0",
+          "Chisel Comp",
+          "Turbo Tero 4.0",
+          "Rockhopper"
+        ]
+      },
+	{
+        "NombreMarca": "Giant",
+        "Modelos": [
+          "Anthem",
+          "Trance",
+          "Talon E+",
+          "Stance",
+          "Reign"
+        ]
+      },
+	{
+        "NombreMarca": "Canyon",
+        "Modelos": [
+          "Exceed",
+          "Spectral",
+          "Inflite"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Motocicleta",
+    "Vehiculos": [
+      {
+        "NombreMarca": "Honda",
+        "Modelos": [
+          "Hornet 2023",
+          "CRF300L 2023",
+          "CL500",
+          "EM1 e: 2023",
+          "Forza 125 2023"
+        ]
+      },
+	{
+        "NombreMarca": "Yamaha",
+        "Modelos": [
+          "MT10",
+          "MT15",
+          "Niken",
+          "TRACER 9 GT",
+          "MT09 SP"
+        ]
+      },
+	{
+        "NombreMarca": "Suzuki",
+        "Modelos": [
+          "GIXXER SF",
+          "Hayabusa",
+          "GSX-R1000R",
+          "GSX-R750",
+          "GSX-R600"
+        ]
+      },
+	{
+        "NombreMarca": "Kawasaki",
+        "Modelos": [
+          "Kawasaki Ninja H2R",
+          "Kawasaki ZX-10RR",
+          "Kawasaki Z H2 SE",
+          "Kawasaki Versys 1000 SE 2023",
+          "Kawasaki Ninja 125 2023"
+        ]
+      },
+	{
+        "NombreMarca": "Ducati",
+        "Modelos": [
+          "SuperSport 950 S",
+          "Multistrada V4 Rally",
+          "Icon",
+          "Nightshift",
+          "Panigale V4 R"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Transatlántico",
+    "Vehiculos": [
+      {
+        "NombreMarca": "BAVARIA",
+        "Modelos": [
+          "Cruiser 43",
+          "Cruiser 41",
+          "C45"
+        ]
+      },
+	{
+        "NombreMarca": "JEANNEAU",
+        "Modelos": [
+          "Albatross 750",
+          "Amazone",
+          "Ambassador",
+          "America",
+          "Aqua Peche"
+        ]
+      },
+	{
+        "NombreMarca": "BENETEAU",
+        "Modelos": [
+          "Oceanis Yacht 60",
+          "Swift Trawler 48",
+          "First 36",
+          "First 18"
+        ]
+      },
+	{
+        "NombreMarca": "HANSE",
+        "Modelos": [
+          "315",
+          "348"
+        ]
+      },
+	{
+        "NombreMarca": "DUFOUR",
+        "Modelos": [
+          "37",
+          "430",
+          "470"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tren",
+    "Vehiculos": [
+      {
+        "NombreMarca": "Train",
+        "Modelos": [
+          "Ice",
+          "R160",
+          "Sprinter"
+        ]
+      },
+	{
+        "NombreMarca": "Aneste",
+        "Modelos": [
+          "Datank",
+          "Datank 750"
+        ]
+      },
+	{
+        "NombreMarca": "ARNOLD",
+        "Modelos": [
+          "Gt6",
+          "Renfe",
+          "Epoch I",
+          "Epoch II"
+        ]
+      },
+	{
+        "NombreMarca": "AWM",
+        "Modelos": [
+          "FS ALn",
+          "3100 AWM"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Avión",
+    "Vehiculos": [
+      {
+        "NombreMarca": "Airbus",
+        "Modelos": [
+          "A319",
+          "A320",
+          "A321",
+	    "A330"
+        ]
+      },
+	{
+        "NombreMarca": "Boeing",
+        "Modelos": [
+          "737",
+          "747",
+          "767"
+        ]
+      },
+	{
+        "NombreMarca": "Bombardier",
+        "Modelos": [
+          "Learjet 35",
+          "Learjet 40 XR",
+          "Learjet 70",
+          "Bombardier Learjet 85"
+        ]
+      },
+	{
+        "NombreMarca": "Embraer",
+        "Modelos": [
+          "Lineage 1000",
+          "Legacy 600",
+          "Phenom 300",
+          "Praetor 500/600"
+        ]
+      }
+    ]
+  }
+]
